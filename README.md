@@ -1,6 +1,6 @@
-# CC:Twaked Resource API
+# CC:Tweaked Resource API
 
-This project aims to add a simple but very flexible API to CC:Twaked that allows the acess of resources per lua API,
+This project aims to add a simple but very flexible API to CC:Tweaked that allows the acess of resources per lua API,
 the API is "read only" you can only get information but cant change information.
 
 ### v1.0 
